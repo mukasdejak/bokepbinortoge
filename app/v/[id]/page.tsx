@@ -139,7 +139,7 @@ export default async function Video({ params }: PageProps) {
         {/* ... */}
         </section>
             <iframe
-                className="w-full h-[30vh] md:h-[55vh] lg:h-[70vh]"
+                className="w-full h-[90vh] md:h-[90vh] lg:h-[90vh]"
                 src={`https://doodstream.com/e/${file.filecode}`}
                 scrolling="no"
                 title={file.title}
@@ -152,13 +152,17 @@ export default async function Video({ params }: PageProps) {
                         Bokep {file.title}
                     </CardTitle>
                 </CardHeader>
-		<CardContent>
-       		     <p>Video Bokep {file.title} di {SITENAME} Video Bokep Indo Bocil Ngentot Jilbab Smp Mama Viral Sma Tante Live Paksa Bokep Abg Jepang Jav Barat Korea China Terbaru Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma hub sotwe olmek avtube pijat pure gudang pemerkosaan rumah tobrut inggris ngintip vcs binor yandex update remaja {SITENAME} wiki raja bokeptube full porno bokepmama simontok bokepind playbokep indobokep xpanasonline indoh janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor remaja yandex update perselingkuhan wiki raja full com porno indoh</p>
-		</CardContent>
             </Card>
+<center><Script dangerouslySetInnerHTML={{__html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1078976})`,}}/>
+<Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/>
+<ins id="1078976" data-width="300" data-height="112"></ins></center>
+            <p>{file.title} di {SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pijat pelajar Hijab Abg Colmek Film Tante Hot Twitter Asia Download Live stw Bokep Bocil situs bokep indonesia jepang barat korea japan jav cina japanese Bokep Indo china rusia arab india thailand nonton link sd crot playbokep simontok bokepin montok baru perawan anak kecil Bokep Jepang telegram selingkuh ojol cantik gay vidio lokal artis pelajar janda streaming Bokep Perkosa hd anime hentai bokepind gudang avtub pijat sotwe Bokep Jilbab rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor remaja yandex update Bokep Smp perselingkuhan wiki raja full com porno indoh</p>
             <h2 className="text-2xl font-bold text-center my-4">
                 Related Video Bokep {file.title}
             </h2>
+<center><Script dangerouslySetInnerHTML={{__html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1058210})`,}}/>
+<Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/>
+<ins id="1058210" data-width="300" data-height="262"></ins></center>
             <SearchCardList query={file.title.split(" ")[2]} />
 <Script src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2x294z2b4&u=http%3A%2F%2Fwww.juicyads.rocks"/>
         </div>
